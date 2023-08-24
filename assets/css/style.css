@@ -935,4 +935,10 @@ footer:hover{
     footer{
         font-size: 14px;
     }
+    .navbar-light .navbar-toggler {
+        display: none;
+    }
+    .modal{
+        width: 90%;
+    }
 }
